@@ -1,3 +1,4 @@
+cid;doença
 A00;Cólera
 A01;Febres tifóide e paratifóide
 A02;Outras infecções por Salmonella
@@ -2042,4 +2043,5 @@ Z95;Presença de implantes e enxertos cardíacos e vasculares
 Z96;Presença de outros implantes funcionais
 Z97;Presença de outros dispositivos protéticos
 Z98;Outros estados pós-cirúrgicos
+
 Z99;Dependência de máquinas e dispositivos capacitantes, não classificados em outra parte
